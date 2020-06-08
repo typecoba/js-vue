@@ -1,1 +1,1 @@
-# js-vue
+# js-vue-template
